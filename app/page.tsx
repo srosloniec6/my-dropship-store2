@@ -1,7 +1,6 @@
 import CartDrawer from "../components/CartDrawer";
 import ProductCard from "../components/ProductCard";
 import { catalog } from "../lib/catalog";
-
 export default function Page() {
   return (
     <main className="p-8">
